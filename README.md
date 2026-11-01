@@ -1,4 +1,4 @@
-# Glide
+# Glide : An X11 Window Orchestrator
 
 This application helps you navigate X11 windows in the same workspace faster than
 the conventional slow `Alt + Tab` configuration, and instead replaces it with
